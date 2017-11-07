@@ -1,0 +1,52 @@
+body {
+  background-color: black;
+  color: aquamarine;
+  font-family: 'Lobster Two', cursive;
+  font-size: 20;
+  text-align: left;
+}
+img {
+  width: 600px;
+  align-items: center;
+}
+table, th, td{
+  padding: 5;
+  border-spacing: 10;
+  text-align: center;
+}
+a:hover {
+  color: aqua;
+  background: midnightblue;
+}
+p {
+  color: aquamarine;
+  font-size: 20;
+}
+h1 {
+  color: red;
+  text-align: center;
+  font-size: 36;
+}
+a {
+  width: 100%;
+  line-height: 2em;
+  text-decoration: none;
+  border-radius: 20;
+  color: purple;
+  font-size: 20;
+}
+#button {
+  width: 6em;
+  border: 100 solid green;
+  background: aqua;
+  border-radius: 100;
+  color: blue;
+  align-content: center;
+  display: block;
+  padding: 10;
+  font-size: 16;
+}
+#button:hover {
+  color: DodgerBlue;
+  background: Aquamarine;
+}
