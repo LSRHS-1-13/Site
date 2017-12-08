@@ -1,0 +1,50 @@
+#header {
+    width: 1190px;
+    height: 100px;
+    float: left;
+    margin: 5px;
+
+}
+body {
+  font-size: 18px;
+  text-align: center;
+  color: navy;
+  background-color: black;
+
+}
+#bar {
+  width: 1190px;
+  height: 90px;
+  float: left;
+  background-color: blue;
+  align-content: center;
+}
+#menu {
+    width: 100px;
+    height: 24px;
+    margin: 30px;
+    float: left;
+    background-color: cyan;
+}
+a {
+  font-size: 18px;
+  border-radius: 20;
+  text-decoration: none;
+  color: navy;
+  text-align: center;
+  margin-top: 20;
+}
+#main {
+    width: 1000px;
+    height: 350px;
+    margin: 10px;
+    padding-left: 100px;
+    float: left;
+    align-content: center;
+}
+h1 {
+  color: ;
+  text-decoration: underline;
+  font-family: cursive;
+  font-size: 36px;
+}
